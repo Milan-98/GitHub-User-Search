@@ -3,7 +3,7 @@
 This is a web application that allows users to search for GitHub users and view their profiles. It uses the GitHub API to fetch user data and displays it in a user-friendly format.
 
 ## Documentation
-[project Link](https://github-copilot.netlify.app/)
+[Project Demo](https://github-copilot.netlify.app/)
 
 
 ## Installation
