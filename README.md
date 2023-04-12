@@ -6,6 +6,7 @@ This is a web application that allows users to search for GitHub users and view 
 [Project Demo](https://github-copilot.netlify.app/)
 
 
+
 ## Installation
 
 To run this project locally, follow these steps:
