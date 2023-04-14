@@ -4,7 +4,8 @@ This is a web application that allows users to search for GitHub users and view 
 
 ## Documentation
 [Project Demo](https://github-copilot.netlify.app/)
-date 11 april 2023 day 121 of webDev
+
+date 12 april 2023 day 121 of webDev
 
 
 
