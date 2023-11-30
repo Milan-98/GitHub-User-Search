@@ -3,7 +3,7 @@
 This is a web application that allows users to search for GitHub users and view their profiles. It uses the GitHub API to fetch user data and displays it in a user-friendly format.
 
 ## Documentation
-[Project Demo](https://github-copilot.netlify.app/)
+[Project Demo](https://git-hub-user-search-two.vercel.app/)
 
 date 12 april 2023 day 121 of webDev
 
